@@ -1,3 +1,5 @@
+package cn.jun;
+
 import org.testng.annotations.*;
 
 public class BasicAnnotation {
@@ -9,7 +11,7 @@ public class BasicAnnotation {
     }
 
     @Test
-    public void testCase2(){
+    public void testCase2() {
         System.out.println("这是测试用例2");
     }
 
@@ -24,23 +26,23 @@ public class BasicAnnotation {
     }
 
     @BeforeClass
-    public void beforeClass(){
+    public void beforeClass() {
         System.out.println("beforeClass这是类运行之前运行的方法");
     }
 
     @AfterClass
-    public void afterClass(){
+    public void afterClass() {
         System.out.println("afterClass这是在运行之后运行的方法");
     }
 
     //测试套件
     @BeforeSuite
-    public void beforeSuite(){
+    public void beforeSuite() {
         System.out.println("BeforeSuite测试套件");
     }
 
     @AfterSuite
-    public void afterSuite(){
+    public void afterSuite() {
         System.out.println("Aftersuite测试套件");
     }
 

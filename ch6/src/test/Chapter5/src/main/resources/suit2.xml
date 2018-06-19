@@ -2,14 +2,14 @@
 <suit name="test">
     <test name="login">
         <classes>
-            <class name="suit.SuitConfig"/>
-            <class name="suit.LoginTest"/>
+            <class name="SuitConfig"/>
+            <class name="LoginTest"/>
         </classes>
     </test>
     <test name="pay">
         <classes>
-            <class name="suit.SuitConfig"/>
-            <class name="suit.payTest"/>
+            <class name="SuitConfig"/>
+            <class name="payTest"/>
         </classes>
     </test>
 

@@ -1,4 +1,4 @@
-package suit;
+package cn.jun.suit;
 
 import org.testng.annotations.Test;
 

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="D:/src/AutoTest"><classes><class name="cn.jun.BasicAnnotation"><methods><include name="testCase1"/><include name="testCase2"/></methods></class><class name="cn.jun.suit.LoginTest"><methods><include name="loginTaoBao"/></methods></class><class name="cn.jun.suit.payTest"><methods><include name="paySuccess"/></methods></class></classes></test></suite>
