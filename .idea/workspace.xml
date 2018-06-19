@@ -2,33 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d464409-33af-4e20-a0ef-f7cecbd51b8b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch6/src/main/resources/suit.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/src/main/java/cn/jun/IgnoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch6/target/classes/cn/jun/IgnoreTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/Chapter5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/Chapter5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/src/main/resources/suit2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/src/main/resources/suit2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/BasicAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/com/course/testng/BasicAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suit/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/com/course/testng/suit/LoginTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suit/SuitConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/com/course/testng/suit/SuitConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/com/course/testng/suit/payTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/com/course/testng/suit/payTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/production/AutoTest/.idea/AutoTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/production/AutoTest/.idea/AutoTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/production/AutoTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/production/AutoTest/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/production/AutoTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/production/AutoTest/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/production/AutoTest/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/production/AutoTest/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/production/AutoTest/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/production/AutoTest/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/production/AutoTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/production/AutoTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter5/target/classes/production/AutoTest/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/test/Chapter5/target/classes/production/AutoTest/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter5/target/test-classes/com/course/testng/BasicAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/ch6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/ch6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/src/main/java/BasicAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/main/java/cn/jun/BasicAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/src/main/java/suit/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/LoginTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/src/main/java/suit/SuitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/SuitConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch6/src/main/java/suit/payTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/payTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/ch6/target/" />
@@ -60,31 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/LoginTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuitConfig.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/SuitConfig.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#533#534#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="suit.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch6/src/main/resources/suit.xml">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,11 +47,30 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ch6/pom.xml">
+      <file leaf-file-name="GroupsMethod.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="181">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#157#158#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
+                <element signature="e#780#781#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
+                <element signature="e#997#998#0" expanded="true" />
+                <element signature="e#1065#1066#0" expanded="true" />
+                <element signature="e#1121#1122#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -134,6 +106,8 @@
         <option value="$PROJECT_DIR$/ch6/pom.xml" />
         <option value="$PROJECT_DIR$/ch6/src/main/resources/suit.xml" />
         <option value="$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/SuitConfig.java" />
+        <option value="$PROJECT_DIR$/ch6/src/main/java/cn/jun/IgnoreTest.java" />
+        <option value="$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsMethod.java" />
       </list>
     </option>
   </component>
@@ -165,10 +139,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="916" />
-    <option name="y" value="54" />
+    <option name="x" value="360" />
+    <option name="y" value="52" />
     <option name="width" value="1554" />
-    <option name="height" value="957" />
+    <option name="height" value="971" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -227,7 +201,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="jun" type="462c0819:PsiDirectoryNode" />
-              <item name="suit" type="462c0819:PsiDirectoryNode" />
+              <item name="groups" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
@@ -285,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/src/AutoTest/ch6/src/main/resources/suit.xml">
+  <component name="RunManager" selected="TestNG.GroupsMethod">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -357,6 +331,64 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="GroupsMethod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ch6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jun.groups.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="cn.jun.groups" />
+      <option name="MAIN_CLASS_NAME" value="cn.jun.groups.GroupsMethod" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="IgnoreTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ch6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="cn.jun" />
+      <option name="MAIN_CLASS_NAME" value="cn.jun.IgnoreTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration name="&lt;default&gt;" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ch6" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -406,9 +438,13 @@
       <item itemvalue="TestNG.&lt;default&gt;" />
       <item itemvalue="TestNG.BasicAnnotation.testCase1" />
       <item itemvalue="TestNG.D:/src/AutoTest/ch6/src/main/resources/suit.xml" />
+      <item itemvalue="TestNG.IgnoreTest" />
+      <item itemvalue="TestNG.GroupsMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.GroupsMethod" />
+        <item itemvalue="TestNG.IgnoreTest" />
         <item itemvalue="TestNG.D:/src/AutoTest/ch6/src/main/resources/suit.xml" />
         <item itemvalue="TestNG.BasicAnnotation.testCase1" />
         <item itemvalue="TestNG.&lt;default&gt;" />
@@ -427,47 +463,47 @@
       <updated>1529370285721</updated>
       <workItem from="1529370287051" duration="10018000" />
       <workItem from="1529385660382" duration="4820000" />
-      <workItem from="1529390511082" duration="429000" />
+      <workItem from="1529390511082" duration="2630000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicAnnotation - 2018.06.19 at 10h 56m 18s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAnnotation - 2018.06.19 at 11h 03m 21s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="resources - 2018.06.19 at 11h 20m 16s.xml">
-      <configuration name="resources" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="resources - 2018.06.19 at 11h 21m 44s.xml">
-      <configuration name="resources" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAnnotation_(1) - 2018.06.19 at 11h 28m 46s.xml">
-      <configuration name="BasicAnnotation (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAnnotation - 2018.06.19 at 11h 29m 03s.xml">
-      <configuration name="BasicAnnotation" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_default_ - 2018.06.19 at 11h 31m 29s.xml">
-      <configuration name="&lt;default&gt;" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_default_ - 2018.06.19 at 13h 56m 18s.xml">
-      <configuration name="&lt;default&gt;" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="BasicAnnotation_testCase1 - 2018.06.19 at 14h 31m 17s.xml">
-      <configuration name="BasicAnnotation.testCase1" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__src_AutoTest_ch6_src_main_resources_suit_xml - 2018.06.19 at 14h 45m 04s.xml">
+    <history-entry file="D__src_AutoTest_ch6_src_main_resources_suit_xml - 2018.06.19 at 14h 49m 12s.xml">
       <configuration name="D:/src/AutoTest/ch6/src/main/resources/suit.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="IgnoreTest - 2018.06.19 at 15h 18m 37s.xml">
+      <configuration name="IgnoreTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="IgnoreTest - 2018.06.19 at 15h 18m 56s.xml">
+      <configuration name="IgnoreTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="IgnoreTest - 2018.06.19 at 15h 19m 54s.xml">
+      <configuration name="IgnoreTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsMethod - 2018.06.19 at 15h 24m 19s.xml">
+      <configuration name="GroupsMethod" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsMethod - 2018.06.19 at 15h 24m 55s.xml">
+      <configuration name="GroupsMethod" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsMethod - 2018.06.19 at 15h 32m 15s.xml">
+      <configuration name="GroupsMethod" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsMethod - 2018.06.19 at 15h 34m 15s.xml">
+      <configuration name="GroupsMethod" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsMethod - 2018.06.19 at 15h 35m 05s.xml">
+      <configuration name="GroupsMethod" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="GroupsMethod - 2018.06.19 at 15h 37m 37s.xml">
+      <configuration name="GroupsMethod" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15267000" />
+    <option name="totallyTimeSpent" value="17468000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="242" y="282" width="1036" height="638" extended-state="0" />
+    <frame x="191" y="33" width="1036" height="647" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -480,11 +516,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924336" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.36534446" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49948823" visible="true" weight="0.42209074" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49948823" visible="true" weight="0.41472867" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3256785" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26278117" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26278117" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -654,10 +690,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch6/src/main/resources/suit.xml">
+    <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/IgnoreTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="138">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#347#348#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/SuitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -668,16 +726,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/suit/SuitConfig.java">
+    <entry file="file://$PROJECT_DIR$/ch6/src/main/resources/suit.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+            <element signature="e#997#998#0" expanded="true" />
+            <element signature="e#1065#1066#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
           </folding>
         </state>
       </provider>
