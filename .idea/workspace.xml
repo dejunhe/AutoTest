@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d464409-33af-4e20-a0ef-f7cecbd51b8b" name="Default" comment="" />
+    <list default="true" id="4d464409-33af-4e20-a0ef-f7cecbd51b8b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapter7/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/startup1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/startupGet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter7/基本操作说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/ch6/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
@@ -32,7 +38,38 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="基本操作说明.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/基本操作说明.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="34">
+                <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startup1.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/startup1.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startupGet.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter7/startupGet.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="35">
+              <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -80,6 +117,9 @@
         <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListenerOld.java" />
         <option value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
         <option value="$PROJECT_DIR$/Chapter6/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListenerNew.java" />
+        <option value="$PROJECT_DIR$/Chapter7/startup.json" />
+        <option value="$PROJECT_DIR$/Chapter7/基本操作说明.md" />
+        <option value="$PROJECT_DIR$/Chapter7/startupGet.json" />
       </list>
     </option>
   </component>
@@ -110,9 +150,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="496" />
-    <option name="y" value="1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="853" />
+    <option name="y" value="76" />
     <option name="width" value="1425" />
     <option name="height" value="882" />
   </component>
@@ -158,6 +198,11 @@
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -176,26 +221,26 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.31264368" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Chapter5/src/main/resources/suit2.xml" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Chapter5" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\src\AutoTest\Chapter7" />
+      <recent name="D:\src\AutoTest\document" />
+      <recent name="D:\src\AutoTest\ch6\src\test" />
+      <recent name="D:\src\AutoTest\ch6\src\main\resources" />
+      <recent name="D:\src\AutoTest\Chapter5\src\main\java" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\src\AutoTest\Chapter5\src\test" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.tester.extend.demo" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\src\AutoTest\ch6\src\test" />
-      <recent name="D:\src\AutoTest\ch6\src\main\resources" />
-      <recent name="D:\src\AutoTest\Chapter5\src\main\java" />
-      <recent name="D:\src\AutoTest\Chapter5\src\main\resources" />
-      <recent name="D:\src\AutoTest\Chapter5\src\test\java" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\src\AutoTest\Chapter5\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -422,7 +467,7 @@
       <workItem from="1529385660382" duration="4820000" />
       <workItem from="1529390511082" duration="3106000" />
       <workItem from="1529412763614" duration="8696000" />
-      <workItem from="1529463063572" duration="718000" />
+      <workItem from="1529463063572" duration="3326000" />
     </task>
     <servers />
   </component>
@@ -459,7 +504,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27358000" />
+    <option name="totallyTimeSpent" value="29966000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -471,7 +516,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="331" y="1" width="950" height="588" extended-state="0" />
+    <frame x="411" y="43" width="950" height="588" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32897195" />
@@ -483,10 +529,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.36448598" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49948823" weight="0.3841584" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32523364" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3238512" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22309417" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27690583" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -829,6 +875,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="112" column="70" selection-start-line="112" selection-start-column="70" selection-end-line="112" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/基本操作说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="34">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/startup1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/startupGet.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
         </state>
       </provider>
     </entry>
