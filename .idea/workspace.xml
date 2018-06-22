@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d464409-33af-4e20-a0ef-f7cecbd51b8b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/document/img/响应头.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/img/慕课网登录后的cookies.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/img/请求头.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/第8章 http协议接口.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/document/第9章 测试框架HttpClient.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__error_error.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter9/Chapter9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter9/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/第7章 Mock接口框架的应用实战.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/第7章 Mock接口框架的应用实战.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/document/第9章 测试框架HttpClient.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/第9章 测试框架HttpClient.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/ch6/target/" />
     <ignored path="$PROJECT_DIR$/Chapter6/target/" />
+    <ignored path="$PROJECT_DIR$/Chapter9/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,29 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="第9章 测试框架HttpClient.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/document/第9章 测试框架HttpClient.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="51">
+                <caret line="3" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter9/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,6 +119,8 @@
         <option value="$PROJECT_DIR$/Chapter7/startupWithCookies.json" />
         <option value="$PROJECT_DIR$/Chapter7/startupWithHeader.json" />
         <option value="$PROJECT_DIR$/Chapter7/startupWithRedirect.json" />
+        <option value="$PROJECT_DIR$/document/第9章 测试框架HttpClient.md" />
+        <option value="$PROJECT_DIR$/Chapter9/pom.xml" />
       </list>
     </option>
   </component>
@@ -125,9 +151,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="529" />
-    <option name="y" value="112" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="859" />
+    <option name="y" value="58" />
     <option name="width" value="1425" />
     <option name="height" value="882" />
   </component>
@@ -166,24 +192,14 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
-              <item name="document" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -206,21 +222,22 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/Chapter5" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\src\AutoTest\document" />
+      <recent name="D:\src\AutoTest\Chapter5\src\test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tester.extend.demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\src\AutoTest\Chapter7" />
       <recent name="D:\src\AutoTest\document" />
       <recent name="D:\src\AutoTest\ch6\src\test" />
       <recent name="D:\src\AutoTest\ch6\src\main\resources" />
       <recent name="D:\src\AutoTest\Chapter5\src\main\java" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.tester.extend.demo" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\src\AutoTest\Chapter5\src\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -449,7 +466,8 @@
       <workItem from="1529412763614" duration="8696000" />
       <workItem from="1529463063572" duration="3637000" />
       <workItem from="1529471612763" duration="6669000" />
-      <workItem from="1529489478921" duration="684000" />
+      <workItem from="1529489478921" duration="1546000" />
+      <workItem from="1529631062870" duration="344000" />
     </task>
     <servers />
   </component>
@@ -486,7 +504,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37630000" />
+    <option name="totallyTimeSpent" value="38836000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -498,7 +516,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="353" y="75" width="950" height="588" extended-state="0" />
+    <frame x="573" y="39" width="950" height="588" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32822758" />
@@ -510,10 +529,10 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3632385" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49948823" weight="0.3841584" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.35667396" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29039302" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29035875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2970852" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -565,20 +584,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="864">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsOnClass1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsOnClass2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -857,6 +862,23 @@
             <caret line="1" column="60" selection-start-line="1" selection-end-line="1" selection-end-column="61" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/document/第9章 测试框架HttpClient.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="51">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
         </state>
       </provider>
     </entry>
