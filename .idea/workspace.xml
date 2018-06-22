@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d464409-33af-4e20-a0ef-f7cecbd51b8b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__error_error.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/Chapter9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter9/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter9/src/main/java/cn/jun/httpclient/demo/MyHttpClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__error_error.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_error.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_6.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/document/第9章 测试框架HttpClient.md" beforeDir="false" afterPath="$PROJECT_DIR$/document/第9章 测试框架HttpClient.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter7/startupWithCookies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter9/Chapter9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/Chapter9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chapter9/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter9/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Chapter/target/" />
     <ignored path="$PROJECT_DIR$/ch6/target/" />
@@ -55,11 +55,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter9/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="186">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyHttpClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/cn/jun/httpclient/demo/MyHttpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startupWithCookies.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter7/startupWithCookies.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="基本操作说明.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter7/基本操作说明.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="61" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -116,11 +149,12 @@
         <option value="$PROJECT_DIR$/Chapter7/基本操作说明.md" />
         <option value="$PROJECT_DIR$/Chapter7/startupGet.json" />
         <option value="$PROJECT_DIR$/Chapter7/startupPost.json" />
-        <option value="$PROJECT_DIR$/Chapter7/startupWithCookies.json" />
         <option value="$PROJECT_DIR$/Chapter7/startupWithHeader.json" />
         <option value="$PROJECT_DIR$/Chapter7/startupWithRedirect.json" />
         <option value="$PROJECT_DIR$/document/第9章 测试框架HttpClient.md" />
         <option value="$PROJECT_DIR$/Chapter9/pom.xml" />
+        <option value="$PROJECT_DIR$/Chapter9/src/main/java/cn/jun/httpclient/demo/MyHttpClient.java" />
+        <option value="$PROJECT_DIR$/Chapter7/startupWithCookies.json" />
       </list>
     </option>
   </component>
@@ -152,8 +186,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="859" />
-    <option name="y" value="58" />
+    <option name="x" value="258" />
+    <option name="y" value="76" />
     <option name="width" value="1425" />
     <option name="height" value="882" />
   </component>
@@ -200,6 +234,46 @@
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -252,7 +326,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.E:/2018/src/AutoTest/Chapter6/src/main/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.MyHttpClient.test">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -359,22 +433,16 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="DataProviderTest.testDataProvider" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ch6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.jun.paramter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="E:/2018/src/AutoTest/Chapter6/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter6" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="cn.jun.paramter" />
-      <option name="MAIN_CLASS_NAME" value="cn.jun.paramter.DataProviderTest" />
-      <option name="METHOD_NAME" value="testDataProvider" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -388,16 +456,22 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="E:/2018/src/AutoTest/Chapter6/src/main/resources/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Chapter6" />
+    <configuration name="MyHttpClient.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jun.httpclient.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter6/src/main/resources/testng.xml" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="cn.jun.httpclient.demo" />
+      <option name="MAIN_CLASS_NAME" value="cn.jun.httpclient.demo.MyHttpClient" />
+      <option name="METHOD_NAME" value="test" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -434,19 +508,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.DataProviderTest.testDataProvider" />
       <item itemvalue="TestNG.DataProviderTest.test1" />
       <item itemvalue="TestNG.DataProviderTest.test2" />
       <item itemvalue="TestNG.DataProviderTest" />
       <item itemvalue="TestNG.E:/2018/src/AutoTest/Chapter6/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.MyHttpClient.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MyHttpClient.test" />
         <item itemvalue="TestNG.E:/2018/src/AutoTest/Chapter6/src/main/resources/testng.xml" />
         <item itemvalue="TestNG.DataProviderTest" />
         <item itemvalue="TestNG.DataProviderTest.test2" />
         <item itemvalue="TestNG.DataProviderTest.test1" />
-        <item itemvalue="TestNG.DataProviderTest.testDataProvider" />
       </list>
     </recent_temporary>
   </component>
@@ -467,14 +541,11 @@
       <workItem from="1529463063572" duration="3637000" />
       <workItem from="1529471612763" duration="6669000" />
       <workItem from="1529489478921" duration="1546000" />
-      <workItem from="1529631062870" duration="344000" />
+      <workItem from="1529631062870" duration="2196000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DataProviderTest - 2018.06.19 at 22h 44m 30s.xml">
-      <configuration name="DataProviderTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DataProviderTest_test1 - 2018.06.19 at 22h 43m 57s.xml">
       <configuration name="DataProviderTest.test1" configurationId="TestNG" />
     </history-entry>
@@ -502,9 +573,12 @@
     <history-entry file="E__2018_src_AutoTest_Chapter6_src_main_resources_testng_xml - 2018.06.20 at 01h 25m 27s.xml">
       <configuration name="E:/2018/src/AutoTest/Chapter6/src/main/resources/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="MyHttpClient_test - 2018.06.22 at 11h 25m 15s.xml">
+      <configuration name="MyHttpClient.test" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38836000" />
+    <option name="totallyTimeSpent" value="40688000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -516,11 +590,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="573" y="39" width="950" height="588" extended-state="0" />
+    <frame x="366" y="102" width="950" height="588" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32822758" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32635984" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -528,11 +603,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32924336" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3632385" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49948823" weight="0.3841584" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.29039302" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49948823" weight="0.38293216" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.28884026" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2970852" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2970852" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -541,7 +616,6 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39958158" />
       <window_info anchor="bottom" id="Dependency Viewer" order="8" weight="0.32985386" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32635984" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -584,13 +658,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsOnClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch6/src/main/java/cn/jun/groups/GroupsOnClass3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -826,13 +893,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/startupWithCookies.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter7/startupWithHeader.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -855,16 +915,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter7/基本操作说明.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="60" selection-start-line="1" selection-end-line="1" selection-end-column="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/document/第9章 测试框架HttpClient.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -877,8 +927,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter9/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" column="10" lean-forward="true" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="186">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/基本操作说明.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="61" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter9/src/main/java/cn/jun/httpclient/demo/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter7/startupWithCookies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
