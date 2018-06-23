@@ -17,7 +17,7 @@ public class MyHttpClient {
         //用来存放我们的结果
         String result;
         HttpGet get = new HttpGet("https://www.baidu.com");
-        HttpClient client = new DefaultHttpClient();
+        DefaultHttpClient client = new DefaultHttpClient();
         //这个是用来执行get方法
         HttpResponse response = client.execute(get);
         result = EntityUtils.toString(response.getEntity(),"utf-8");
