@@ -10,7 +10,10 @@
         "cookies":"true",
         "status":"10000"
       },
-      "text":"恭喜你获取cookies信息"
+      "text":"恭喜你获取cookies信息",
+      "headers":{
+        "content-Type":"text/html;charset=gbk"
+      }
     }
   },
   {
