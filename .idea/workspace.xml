@@ -12,7 +12,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1e22c06-0cd4-4697-88eb-b7d761dcd196" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/document/第10章 项目实战接口开发SpringBoot.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" beforeDir="false" />
@@ -78,8 +77,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Chapter10/src/main/java/cn/jun/server/MyGetMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chapter10/src/main/java/cn/jun/server/MyGetMethod.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -167,8 +164,8 @@
       <file leaf-file-name="MyGetMethod.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/cn/jun/server/MyGetMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+            <state relative-caret-position="178">
+              <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -247,9 +244,9 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="259" />
-    <option name="y" value="135" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="243" />
+    <option name="y" value="405" />
     <option name="width" value="1646" />
     <option name="height" value="950" />
   </component>
@@ -561,7 +558,7 @@
       <updated>1529714735929</updated>
       <workItem from="1529714738535" duration="71000" />
       <workItem from="1529715589834" duration="11006000" />
-      <workItem from="1530178055013" duration="5511000" />
+      <workItem from="1530178055013" duration="5996000" />
     </task>
     <servers />
   </component>
@@ -598,7 +595,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16588000" />
+    <option name="totallyTimeSpent" value="17073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -610,7 +607,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="173" y="90" width="1097" height="633" extended-state="0" />
+    <frame x="162" y="270" width="1097" height="633" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -896,8 +893,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Chapter10/src/main/java/cn/jun/server/MyGetMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        <state relative-caret-position="178">
+          <caret line="65" column="8" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

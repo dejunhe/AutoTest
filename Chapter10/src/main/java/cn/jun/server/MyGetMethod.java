@@ -14,22 +14,6 @@ import java.util.Objects;
 
 @RestController
 public class MyGetMethod {
-    /**
-     * 开发一个需要携带参数才能访问的get请求。
-     * 第一种实现方式：usl:key=value&key=value
-     * 我们来模拟获取商品列表
-     *
-     */
-    @RequestMapping(value = "/get/with/param", method = RequestMethod.GET)
-    public Map<String,Integer> getList(@RequestParam Integer start,
-                                       @RequestParam Integer end){
-        Map<String,Integer> myList = new HashMap<>();
-        myList.put("鞋",400);
-        myList.put("干脆面",1);
-        myList.put("衬衫",300);
-        return myList;
-    }
-
 
 
     @RequestMapping(value = "/getCookies", method = RequestMethod.GET)
@@ -58,5 +42,27 @@ public class MyGetMethod {
         }
         return "你必须携带cookie信息来访问";
     }
+    /**
+     * 开发一个需要携带参数才能访问的get请求。
+     * 第一种实现方式：usl:key=value&key=value
+     * 我们来模拟获取商品列表
+     *
+     */
+    @RequestMapping(value = "/get/with/param", method = RequestMethod.GET)
+    public Map<String,Integer> getList(@RequestParam Integer start,
+                                       @RequestParam Integer end){
+        Map<String,Integer> myList = new HashMap<>();
+        myList.put("鞋",400);
+        myList.put("干脆面",1);
+        myList.put("衬衫",300);
+        return myList;
+    }
 
+    /**
+     * 第二种需要携带参数访问的get请求
+     * url：ip:port/get/with/param/10/20
+     */
+    public Map myGetList(){
+        
+    }
 }
