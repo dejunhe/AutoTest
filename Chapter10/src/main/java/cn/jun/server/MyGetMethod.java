@@ -63,6 +63,6 @@ public class MyGetMethod {
      * url：ip:port/get/with/param/10/20
      */
     public Map myGetList(){
-        
+        return null;
     }
 }
