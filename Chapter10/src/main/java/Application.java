@@ -4,7 +4,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 @SpringBootApplication
-@ComponentScan("cn.jun.server")
+@ComponentScan("cn.jun")
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class,args);
