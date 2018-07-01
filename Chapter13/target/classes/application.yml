@@ -1,0 +1,19 @@
+server:
+  port: 8888
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test
+    username: root
+    password: root
+  application:
+    name: report
+mybatis:
+  type-aliases-package: cn.jun.model
+  mapper-locations:
+    - mapper/*
+logging:
+  path: e:\logs
+  file: \mylogs.log
+
+
